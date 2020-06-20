@@ -15,7 +15,7 @@ ilk Kodumuz Basit bir Login işlemi !
 username = "kullanıcı adınız"
 password = "şifreniz"
 
-4- https://chromedriver.storage.googleapis.com sitesinden size uygun Cromedriver.exe dosyasını indirip kodla aynı klasöre ekleyin. BURASI ÖNEMLİ
+4- https://chromedriver.chromium.org/ sitesinden size uygun Cromedriver.exe dosyasını indirip kodla aynı klasöre ekleyin. BURASI ÖNEMLİ
 
 5- Çalıştır :)
 
