@@ -1,8 +1,5 @@
 # Twitter_Login
 
-Merhaba arkadaşlar :) Konuşmayı çok sevmiyorum genelde yazışarak anlaşacağız !
-
-Bu video serisinin sonunda kendinize twitter hesabınız için çok ama çok güzel bir hesap yöneticisi tasarlamış olacağız. 
 
 ilk Kodumuz Basit bir Login işlemi ! 
 
